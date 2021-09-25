@@ -22,6 +22,7 @@ message JoinResponse {
     string msg = 2;
 }
 
+
 message ReceiveMsgRequest {
     string user = 1;
 }
